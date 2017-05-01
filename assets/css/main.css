@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+*{
+    font-family: 'Raleway', sans-serif;
+	margin: 0;
+	padding: 0 1.5%;
+}
+.cabecera a{
+    color: coral;
+    padding: 0;
+    text-decoration: none;
+}
+.cabecera p{
+    text-align: justify;
+}
+.cabecera span{
+    padding: 0;
+    text-decoration: underline;
+    font-weight: bold;
+    color: #3E3F40;
+}
+.cabecera p{
+    color: #b5b6b7;
+}
+.form-container h1{
+    font-size: 30px;
+}
+.form-container h2{
+    font-size: 25px;
+}
+.two-columns input[type=text]{
+	border: none;
+	outline: none;
+	border-bottom: 1px solid #b5b6b7;
+	width: 80%;
+}
+.two-columns fieldset {
+  border: none;
+  margin-bottom: 12px;
+}
+.position{
+	display: inline-block;
+	margin-right: -4px;
+	width: 50%;
+	vertical-align: top;
+}
