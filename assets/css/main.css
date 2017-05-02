@@ -28,13 +28,13 @@
 .form-container h2{
     font-size: 25px;
 }
-.two-columns input[type=text]{
+input[type=text]{
 	border: none;
 	outline: none;
 	border-bottom: 1px solid #b5b6b7;
-	width: 80%;
+	width: 70%;
 }
-.two-columns fieldset {
+fieldset {
   border: none;
   margin-bottom: 12px;
 }
